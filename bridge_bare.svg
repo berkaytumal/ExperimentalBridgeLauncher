@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="color-0">
+      <title>accent</title>
+      <stop style="stop-color: rgb(13, 114, 255);"/>
+    </linearGradient>
+    <mask id="mask-0">
+      <ellipse style="filter: none; fill: rgb(255, 255, 255);" cx="250" cy="250" rx="155" ry="155"/>
+    </mask>
+  </defs>
+  <g transform="matrix(1.5625, 0, 0, 1.5625, -140.625, -144.53125)" style="">
+    <g>
+      <path style="fill: url(#color-0);" d="M 90 255 L 110 265 C 110 265 110 285 110 285 L 140 285 L 140 265 C 140 265 360 265 360 265 L 360 285 L 390 285 L 390 265 L 410 255 L 410 235 L 90 235 L 90 255 Z"/>
+      <path d="M 390 250 L 360 250 C 360 189.249 310.751 140 250 140 C 189.249 140 140 189.2 140 250 L 110 250 C 110 172.68 172.68 110 250 110 C 327.32 110 390 172.7 390 250 Z" style="fill: url(#color-0);"/>
+      <path d="M 143.128 174.159 L 180.862 259.061 L 199.138 259.061 L 250 144.622 L 300.862 259.061 L 319.167 258.995 L 356.167 174.095 L 337.833 166.105 L 309.91 230.176 L 259.138 115.939 L 240.862 115.939 L 190 230.378 L 161.404 166.037 L 143.128 174.159 Z" style="fill: url(#color-0);"/>
+    </g>
+    <g style="filter: none; mask: url(#mask-0);">
+      <path style="stroke-linecap: round; stroke-width: 17px; fill: none; stroke-opacity: 0.5; stroke-linejoin: round; stroke: url(#color-0);" d="M 90 325 L 130 307 L 170 325 L 210 307 L 250 325 L 290 307 L 330 325 L 370 307 L 410 325"/>
+      <path style="stroke-linecap: round; stroke-linejoin: round; stroke-width: 17px; fill: none; stroke-opacity: 0.5; stroke: url(#color-0);" d="M 90 360 L 130 342 L 170 360 L 210 342 L 250 360 L 290 342 L 330 360 L 370 342 L 410 360"/>
+      <path style="stroke-linecap: round; stroke-linejoin: round; stroke-width: 17px; fill: none; stroke-opacity: 0.5; stroke: url(#color-0);" d="M 90 395 L 130 377 L 170 395 L 210 377 L 250 395 L 290 377 L 330 395 L 370 377 L 410 395"/>
+    </g>
+  </g>
+  <path style="fill: none; stroke-width: 20px;" d="M 152.266 170.098 L 190 255 L 250 120 L 310 255 L 347 170.1"/>
+</svg>
